@@ -1,5 +1,6 @@
-import { html, LitElement, render } from 'lit';
+import { html, LitElement, nothing, render } from 'lit';
 import { customElement, state } from 'lit/decorators.js';
+import '@vaadin/vaadin-lumo-styles/';
 import '@vaadin/text-field';
 import '@vaadin/date-picker';
 import '@vaadin/checkbox';
@@ -7,6 +8,7 @@ import '@vaadin/grid';
 import '@vaadin/grid/vaadin-grid-sort-column.js';
 import { GridBodyRenderer } from '@vaadin/grid';
 import eventsUrl from './events.json?url';
+import { CheckboxCheckedChangedEvent } from '@vaadin/checkbox';
 
 type Event = {
   name: string;
@@ -24,6 +26,7 @@ type Event = {
 export class JavaEvents extends LitElement {
   @state() events: Event[] = [];
   @state() searchText = '';
+  @state() showCFP = false;
 
   async connectedCallback() {
     super.connectedCallback();
@@ -57,17 +60,22 @@ export class JavaEvents extends LitElement {
 
   render() {
     return html`
-      <div class="flex flex-col gap-m">
-        <div class="flex flex-wrap gap-m items-baseline">
+      <div class="flex flex-col gap-2">
+        <div class="flex flex-wrap gap-6 items-baseline">
           <vaadin-text-field
             placeholder="Search events"
             clear-button-visible
             @input=${this.updateSearch}></vaadin-text-field>
+          <vaadin-checkbox
+            label="Show CFP dates"
+            .checked=${this.showCFP}
+            @checked-changed=${(e: CheckboxCheckedChangedEvent) =>
+              (this.showCFP = e.detail.value)}></vaadin-checkbox>
         </div>
         <vaadin-grid .items=${this.filteredEvents}>
           <vaadin-grid-sort-column
             path="name"
-            auto-width
+            width="20rem"
             frozen
             resizable
             .renderer=${this.nameRenderer}></vaadin-grid-sort-column>
@@ -93,16 +101,21 @@ export class JavaEvents extends LitElement {
             header="Ends"
             auto-width
             resizable></vaadin-grid-sort-column>
-          <vaadin-grid-sort-column
-            path="cfpStarts"
-            header="CFP starts"
-            auto-width
-            resizable></vaadin-grid-sort-column>
-          <vaadin-grid-sort-column
-            path="cfpEnds"
-            header="CFP ends"
-            auto-width
-            resizable></vaadin-grid-sort-column>
+
+          ${this.showCFP
+            ? html`
+                <vaadin-grid-sort-column
+                  path="cfpStarts"
+                  header="CFP starts"
+                  auto-width
+                  resizable></vaadin-grid-sort-column>
+                <vaadin-grid-sort-column
+                  path="cfpEnds"
+                  header="CFP ends"
+                  auto-width
+                  resizable></vaadin-grid-sort-column>
+              `
+            : nothing}
         </vaadin-grid>
       </div>
     `;

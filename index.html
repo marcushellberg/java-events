@@ -13,19 +13,25 @@
     <link rel="stylesheet" href="/src/styles.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>Java Events List ☕️</h1>
+    <div class="container mx-auto flex flex-col gap-4 my-6 p-4">
+      <h1 class="text-2xl">Java Events List ☕️</h1>
       <p>
         This is a community-updated list of Java conferences, JUGs, meetups, and
         other events around the world. You can contribute to the list though the
-        <a href="https://github.com/marcushellberg/java-events">GitHub repo</a>.
+        <a
+          href="https://github.com/marcushellberg/java-events"
+          class="underline">
+          GitHub repo
+        </a>
       </p>
-      <java-events></java-events>
+      <java-events class="flex flex-col"></java-events>
 
       <footer>
         Created by
-        <a href="https://twitter.com/marcushellberg">@marcushellberg</a>. Built
-        with <a href="https://vaadin.com">Vaadin</a> components.
+        <a href="https://twitter.com/marcushellberg" class="underline"
+          >@marcushellberg</a
+        >. Built with
+        <a href="https://vaadin.com" class="underline">Vaadin</a> components.
       </footer>
     </div>
   </body>
