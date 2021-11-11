@@ -79,8 +79,7 @@ export class JavaEvents extends LitElement {
         <vaadin-grid .items=${this.filteredEvents}>
           <vaadin-grid-sort-column
             path="name"
-            width="20rem"
-            frozen
+            width="15rem"
             resizable
             .renderer=${this.nameRenderer}></vaadin-grid-sort-column>
           <vaadin-grid-sort-column
