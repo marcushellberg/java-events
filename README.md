@@ -1,13 +1,13 @@
 # Community-updated list of Java events
 
-You can see the list at https://java-events.dev.
+You can view the list at https://java-events.dev.
 
 ## Contributing
 
 There are several ways to contribute to this project:
 
-- You can update the list by forking the repo, updating `src/events.csv` and making a PR.
-- You can report issues and suggest features by filing an issue.
+- You can update the list by forking the repo, updating `src/events.json` and making a PR.
+- You can report issues and suggest features by creating an issue.
 
 ## Running locally
 

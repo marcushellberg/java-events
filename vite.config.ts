@@ -6,7 +6,11 @@ import dsv from '@rollup/plugin-dsv';
 export default defineConfig({
   build: {},
   plugins: [
-    //VitePWA({}),
-    dsv(),
+    VitePWA({
+      manifest: {
+        name: 'Java Events',
+        short_name: 'JEvents',
+      },
+    }),
   ],
 });

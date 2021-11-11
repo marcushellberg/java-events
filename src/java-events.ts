@@ -2,9 +2,11 @@ import { html, LitElement, render } from 'lit';
 import { customElement, state } from 'lit/decorators.js';
 import '@vaadin/text-field';
 import '@vaadin/date-picker';
+import '@vaadin/checkbox';
 import '@vaadin/grid';
 import '@vaadin/grid/vaadin-grid-sort-column.js';
 import { GridBodyRenderer } from '@vaadin/grid';
+import eventsUrl from './events.json?url';
 
 type Event = {
   name: string;
@@ -25,22 +27,19 @@ export class JavaEvents extends LitElement {
 
   async connectedCallback() {
     super.connectedCallback();
-    this.events = (await import('./events.csv')).default;
+    const eventData = await fetch(eventsUrl);
+    this.events = await eventData.json();
   }
 
   get filteredEvents() {
     return this.events.filter((event) => {
       const regExp = new RegExp(this.searchText, 'i');
-      if (
+      return (
         event.name.match(regExp) ||
         event.type.match(regExp) ||
         event.country.match(regExp) ||
         event.city.match(regExp)
-      ) {
-        return true;
-      } else {
-        return false;
-      }
+      );
     });
   }
 

@@ -22,11 +22,9 @@
     "@vaadin/grid": "^22.0.0-beta1",
     "@vaadin/text-field": "^22.0.0-beta1",
     "@vaadin/vaadin-lumo-styles": "^22.0.0-beta1",
-    "d3-dsv": "^3.0.1",
     "lit": "^2.0.0"
   },
   "devDependencies": {
-    "@rollup/plugin-dsv": "^2.0.2",
     "typescript": "^4.3.2",
     "vite": "^2.6.4",
     "vite-plugin-pwa": "^0.11.3"
