@@ -1,0 +1,34 @@
+{
+  "name": "java-events",
+  "version": "0.0.0",
+  "main": "dist/my-element.es.js",
+  "exports": {
+    ".": "./dist/my-element.es.js"
+  },
+  "types": "types/my-element.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@vaadin/checkbox": "^22.0.0-beta1",
+    "@vaadin/combo-box": "^22.0.0-alpha10",
+    "@vaadin/date-picker": "^22.0.0-beta1",
+    "@vaadin/grid": "^22.0.0-beta1",
+    "@vaadin/text-field": "^22.0.0-beta1",
+    "@vaadin/vaadin-lumo-styles": "^22.0.0-beta1",
+    "d3-dsv": "^3.0.1",
+    "lit": "^2.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-dsv": "^2.0.2",
+    "@types/d3-dsv": "^3.0.0",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4",
+    "vite-plugin-pwa": "^0.11.3"
+  }
+}

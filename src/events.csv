@@ -1,0 +1,114 @@
+name,eventStarts,eventEnds,type,website,cfpOpens,cfpEnds,city,country
+JFokus,2022-02-07,2022-02-09,Conference,https://www.jfokus.se/,,,Stockholm,Sweden
+DevNexus,2022-04-11,2022-04-13,Conference,https://devnexus.com/,,2021-11-15,"Atlanta, GA",USA
+Devoxx Belgium,2022-11-07,2022-11-11,Conference,https://devoxx.be/,,,Antwerp,Belgium
+JCON,,,Conference,https://jcon.one/,,,Düsseldorf,Germany
+Voxxed Days Zurich,2022-03-17,2022-03-17,Conference,https://voxxeddays.com/zurich/,,2021-12-06,Zürich,Switzerland
+Jconf.dev,,,Conference,https://jconf.dev/,,,"Chicago, IL",USA
+Connect.tech,,,Conference,http://connect.tech,,,"Atlanta, GA",USA
+Spring ONE,,,Conference,https://springone.io/,,,"Seattle, WA",USA
+J-FALL,,,Conference,https://jfall.nl/,,,Ede,Netherlands
+Spring IO,2022-05-26,2022-05-27,Conference,https://2022.springio.net/,,,Barcelona,Spain
+Oracle Code One,,,Conference,https://www.oracle.com/code-one/,,,"Las Vegas, NV",USA
+Devoxx France,2022-04-20,2022-04-22,Conference,https://www.devoxx.fr/,,,Paris,France
+Devoxx Ukraine,,,Conference,https://devoxx.com.ua/,,,Kyiv,Ukraine
+JAX London,,,Conference,https://jaxlondon.com/,,,London,UK
+JAX Hybrid,2022-05-02,2022-05-06,Conference,https://jax.de/mainz-en,,,Mainz,Germany
+JavaDays,,,Conference,https://javadays.sk/sk/,,,,Slovakia
+JavaLand,2022-03-15,2022-03-17,Conference,https://www.javaland.eu/en/home/,,,Brühl,Germany
+Javazone,2021-12-08,2021-12-09,Conference,https://2021.javazone.no/#/,,,Oslo,Norway
+W-JAX Hybrid,,,Conference,https://jax.de/munich/,,,Munich,Germany
+Voxxed Days Ticino,,,Conference,https://voxxeddays.com/ticino/,,,Ticino,Switzerland
+GeeCon Krakow,2022-03-11,2022-03-13,Conference,https://www.geecon.org/,,,Kraków,Poland
+GeeCon Prague,2022-10-11,2022-10-14,Conference,https://www.geecon.org/,,,Prague,Czechia
+JPoint,,,Conference,https://jpoint.ru/en/,,,Moscow,Russia
+Joker,,,Conference,https://jokerconf.com/en/,,,St Petersburg,Russia
+JNation,,,Conference,https://jnation.pt/,,,Coimbra,Portugal
+JBCN,2022-07-18,2022-07-20,Conference,https://www.jbcnconf.com/2022/,,,Barcelona,Spain
+J-SPRING,2022-06-02,2022-06-03,Conference,https://jspring.nl/,,,Utrecht,Netherlands
+Øredev,,,Conference,https://oredev.org/,,,Malmö,Sweden
+JVM CON,,,Conference,https://www.jvm-con.de/en/,,,Cologne,Germany
+Java Foum Nord,2022-10-06,2022-10-06,Conference,https://javaforumnord.d,,,Hanover,Germany
+Java Day Istanbul,2022-05-24,2022-05-25,Conference,https://www.javaday.istanbul/,,,İstanbul,Turkey
+QCon London,2022-04-04,2022-04-06,Conference,https://qconlondon.com/,,,London,UK
+QCon New York,,,Conference,https://qconnewyork.com/,,,"New York, NY",USA
+QCon San Francisco,,,Conference,https://qconsf.com/,,,"San Francisco, CA",USA
+QCon Munich,,,Conference,https://qconmunich.com/,,,Munich,Germany
+GeekOut,,,Conference,https://2019.geekout.ee/,,,Tallinn,Estonia
+GOTO Amsterdam,2021-12-06,2021-12-09,Conference,https://gotoams.nl/,,,Amsterdam,Netherlands
+Dev.next,,,Conference,https://www.devdotnext.com/,,,"Denver, CO",USA
+OOP,2022-01-31,2022-02-02,Conference,https://www.oop-konferenz.de/oop2022.html,,,Munich,Germany
+NYC JUG,,,Meetup,https://www.meetup.com/nycjava/,,,"New York, NY",USA
+Silicon Valley JUG,,,Meetup,https://www.meetup.com/sv-jug/,,,"Mountain View, CA",USA
+San Francisco JUG,,,Meetup,https://www.meetup.com/sfjava/,,,"San Francisco, CA",USA
+Denver JUG,,,Meetup,https://www.meetup.com/DenverJavaUsersGroup/,,,"Denver, CO",USA
+Utah JUG,,,Meetup,https://www.meetup.com/Utah-Java-Users-Group/,,,"Salt Lake City, UT",USA
+Boston Java,,,Meetup,https://www.meetup.com/boston-java/,,,"Boston, MA",USA
+Chicago JUG,,,Meetup,https://www.meetup.com/ChicagoJUG/,,,"Chicago, IL",USA
+Atlanta JUG,,,Meetup,https://www.meetup.com/atlantajug/,,,"Atlanta, GA",USA
+DC JUG,,,Meetup,https://www.meetup.com/dc-jug/,,,"Washington, DC",USA
+Montreal JUG,,,Meetup,https://www.meetup.com/montreal-jug/,,,"Montreal, QC",Canada
+St Louis JUG,,,Meetup,https://www.meetup.com/GatewayJUG/,,,"St. Louis, MO",USA
+Detroit JUG,,,Meetup,https://www.meetup.com/Detroit-Java-User-Group/,,,"Detroit, MI",USA
+Toronto JUG,,,Meetup,https://www.meetup.com/Toronto-Java-Users-Group/,,,"Toronto, ON",Canada
+Triangle JUG,,,Meetup,https://www.meetup.com/Triangle-Java-Users-Group/,,,"Raleigh, NC",USA
+Seattle JUG,,,Meetup,https://www.meetup.com/seajug/,,,"Seattle, WA",USA
+Philly JUG,,,Meetup,https://www.meetup.com/PhillyJUG/,,,"Philadelphia, PA",USA
+Dallas JUG,,,Meetup,https://www.meetup.com/javamug/,,,"Dallas, TX",USA
+Nashville JUG,,,Meetup,https://www.meetup.com/nashvillejug/,,,"Nashville, TN",USA
+Vancouver JUG,,,Meetup,https://www.meetup.com/vanjug/,,,"Vancouver, BC",Canada
+Houston JUG,,,Meetup,http://www.hjug.org/,,,"Houston, TX",USA
+Austin JUG,,,Meetup,https://www.meetup.com/Austin-Java-Users-Group/,,,"Austin, TX",USA
+Miami JUG,,,Meetup,https://www.meetup.com/Miami-Java-User-Group/,,,"Miami, FL",USA
+New England JUG,,,Meetup,http://www.nejug.org/,,,"Boston, MA",USA
+Cleveland JUG,,,Meetup,https://www.meetup.com/cleveland-java/,,,"Cleveland, OH",USA
+NYC Java SIG,,,Meetup,https://www.meetup.com/JavaSIG/,,,"New York, NY",USA
+Baltimore JUG,,,Meetup,https://www.meetup.com/dc-java/,,,"Baltimore, MD",USA
+Richmond JUG,,,Meetup,https://www.meetup.com/Richmond-Java-Users-Group/,,,"Richmond, VA",USA
+Portland JUG,,,Meetup,https://www.meetup.com/PDXJUG/,,,"Portland, OR",USA
+Boulder JUG,,,Meetup,https://www.meetup.com/BoulderJavaUsersGroup/,,,"Boulder, CO",USA
+Indianapolis JUG,,,Meetup,https://www.meetup.com/Indianapolis-Java-User-Group/,,,"Indianapolis, IN",USA
+Minneapolis JUG,,,Meetup,https://www.meetup.com/Java-User-Group-Hosted-by-TEKsystems/,,,"Minneapolis, MN",USA
+Kansas City Java,,,Meetup,https://www.meetup.com/kcjava/,,,"Kansas City, MO",USA
+Charlotte JUG,,,Meetup,https://www.meetup.com/Charlotte-Java-Developers-Meetup/,,,"Charlotte, NC",USA
+Los Angeles JUG,,,Meetup,https://www.meetup.com/Los-Angeles-Java-User-Group/,,,"Los Angeles, CA",USA
+Madison JUG,,,Meetup,https://www.meetup.com/Madison-Java-User-Group-Meetup/,,,"Madison, WI",USA
+San Diego JUG,,,Meetup,https://www.meetup.com/San-Diego-Java-Users-Group/,,,"San Diego, CA",USA
+Phoenix JUG,,,Meetup,https://www.meetup.com/phxjug/,,,"Phoenix, AZ",USA
+Orlando JUG,,,Meetup,https://www.meetup.com/OrlandoJUG/,,,"Orlando, FL",USA
+Ottawa JUG,,,Meetup,https://www.meetup.com/Ottawa-Java-User-Group/,,,"Ottawa, ON",Canada
+Berlin JUG,,,Meetup,http://jug-berlin-brandenburg.de/,,,Berlin,Germany
+Fullstack Developers Israel,,,Meetup,https://www.meetup.com/full-stack-developer-il/,,,Tel Aviv-Yafo,Israel
+Polish JUG,,,Meetup,https://www.meetup.com/Polish-Java-User-Group/,,,Kraków,Poland
+Lodz JUG,,,Meetup,https://www.meetup.com/Java-User-Group-Lodz/,,,Łódź,Poland
+GOGO Nights Amsterdam,,,Meetup,https://www.meetup.com/GOTO-Nights-Amsterdam/,,,Amsterdam,Netherlands
+Madrid JUG,,,Meetup,https://www.meetup.com/MadridJUG/,,,Madrid,Spain
+Javaforum Göteborg,,,Meetup,https://www.meetup.com/Javaforum-Goteborg/,,,Göteborg,Sweden
+Trójmiasto Java User Group,,,Meetup,https://www.meetup.com/Trojmiasto-Java-User-Group/,,,Gdańsk,Poland
+Belgian JUG,,,Meetup,https://www.meetup.com/Belgian-Java-User-Group/,,,Brussels,Belgium
+Java Vienna,,,Meetup,https://www.meetup.com/Java-Vienna/,,,Vienna,Austria
+BruJUG,,,Meetup,https://www.meetup.com/BruJUG/,,,Brussels,Belgium
+Spring de Madrid,,,Meetup,https://www.meetup.com/madrid-spring-user-group/,,,Madrid,Spain
+Jforum Stockholm,,,Meetup,https://www.meetup.com/Jforum-Stockholm/,,,Stockholm,Sweden
+Barcelona JUG,,,Meetup,https://www.meetup.com/BarcelonaJUG/,,,Barcelona,Spain
+Bordeaux JUG,,,Meetup,https://www.meetup.com/BordeauxJUG/,,,Bordeaux,France
+Javaforum.hu,,,Meetup,https://www.meetup.com/javaforum-hu/,,,Budapest,Hungary
+Thessaloniki Java Meetup Group,,,Meetup,https://www.meetup.com/Thessaloniki-Java-Meetup-Group/,,,Thessaloniki,Greece
+Spring Meetup Paris,,,Meetup,https://www.meetup.com/Spring-Meetup-Paris/,,,Paris,France
+Toulouse JUG,,,Meetup,https://www.meetup.com/Toulouse-Java-User-Group/,,,Toulouse,France
+Java and JVM Tel Aviv,,,Meetup,https://www.meetup.com/jjtv-il/,,,Tel Aviv-Yafo,Israel
+Java Hellenic User Group,,,Meetup,https://www.meetup.com/Java-Hellenic-User-Group/,,,Athens,Greece
+Brighton Java,,,Meetup,https://www.meetup.com/Brighton-Java/,,,Brighton,UK
+Lyon JUG,,,Meetup,https://www.meetup.com/Lyon-Java-User-Group-LyonJUG/,,,Lyon,France
+Sevilla JUG,,,Meetup,https://www.meetup.com/SVQJUG/,,,Seville,Spain
+Developers.nl,,,Meetup,https://www.meetup.com/Developers-nl-Meetup/,,,Rotterdam,Netherlands
+Timisoara JUG,,,Meetup,https://www.meetup.com/Timisoara-Java-User-Group/,,,Timișoara,Romania
+Belgrade Java Community,,,Meetup,https://www.meetup.com/Belgrade-Java-Community/,,,Belgrade,Serbia
+Belfast JUG,,,Meetup,https://www.meetup.com/BelfastJUG/,,,Belfast,UK
+Java Meetup Berlin,,,Meetup,https://www.meetup.com/Java-Berlin/,,,Berlin,Germany
+DubJUG,,,Meetup,https://www.meetup.com/DublinJavaUserGroup/,,,Dublin,Ireland
+Cork JUG,,,Meetup,https://www.meetup.com/corkjug/,,,Cork,Ireland
+London Java Community,,,Meetup,https://www.meetup.com/Londonjavacommunity/,,,London,UK
+Helsinki JUG,,,Meetup,https://www.meetup.com/Helsinki-Java-User-Group/,,,Helsinki,Finland
+Manchester Java Community,,,Meetup,https://www.meetup.com/ManchesterUK-Java-Community/,,,Manchester,UK
+Java User Group Torino,,,Meetup,https://www.meetup.com/JUGTorino/,,,Turin,Italy
