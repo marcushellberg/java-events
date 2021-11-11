@@ -53,7 +53,11 @@ export class JavaEvents extends LitElement {
   nameRenderer: GridBodyRenderer<Event> = (root, _, model) => {
     const event = model.item;
     render(
-      html` <a href=${event.website} target="_blank">${event.name}</a> `,
+      html`
+        <a href=${event.website} target="_blank" class="underline"
+          >${event.name}</a
+        >
+      `,
       root
     );
   };
