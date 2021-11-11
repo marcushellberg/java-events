@@ -429,6 +429,17 @@
     "country": "Germany"
   },
   {
+    "name": "BaselOne",
+    "eventStarts": "2022-10-19",
+    "eventEnds": "2022-10-22",
+    "type": "Conference",
+    "website": "https://baselone.ch/one/",
+    "cfpOpens": "",
+    "cfpEnds": "",
+    "city": "Basel",
+    "country": "Switzerland"
+  },
+  {
     "name": "NYC JUG",
     "eventStarts": "",
     "eventEnds": "",
