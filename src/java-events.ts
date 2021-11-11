@@ -64,7 +64,7 @@ export class JavaEvents extends LitElement {
 
   render() {
     return html`
-      <div class="flex flex-col gap-2">
+      <div class="flex flex-col flex-grow gap-2">
         <div class="flex flex-wrap gap-6 items-baseline">
           <vaadin-text-field
             placeholder="Search events"

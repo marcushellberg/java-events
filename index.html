@@ -12,8 +12,8 @@
     <script type="module" src="/src/java-events.ts"></script>
     <link rel="stylesheet" href="/src/styles.css" />
   </head>
-  <body>
-    <div class="container mx-auto flex flex-col gap-4 my-6 p-4">
+  <body class="h-full box-border">
+    <div class="h-full container mx-auto flex flex-col gap-4 p-4 box-border">
       <h1 class="text-2xl">Java Events List ☕️</h1>
       <p>
         This is a community-updated list of Java conferences, JUGs, meetups, and
@@ -24,7 +24,7 @@
           GitHub repo
         </a>
       </p>
-      <java-events class="flex flex-col"></java-events>
+      <java-events class="flex-grow flex flex-col"></java-events>
 
       <footer>
         Created by
