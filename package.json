@@ -13,7 +13,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "serve": "vite preview"
   },
   "dependencies": {
     "@vaadin/checkbox": "^22.0.0-beta1",
