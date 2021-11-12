@@ -9,18 +9,7 @@ import '@vaadin/grid/vaadin-grid-sort-column.js';
 import { GridBodyRenderer } from '@vaadin/grid';
 import eventsUrl from './events.json?url';
 import { CheckboxCheckedChangedEvent } from '@vaadin/checkbox';
-
-type Event = {
-  name: string;
-  eventStarts?: Date;
-  eventEnds?: Date;
-  type: 'Conference' | 'Meetup';
-  website: string;
-  cfpOpens?: Date;
-  cfpEnds?: Date;
-  city: string;
-  country: string;
-};
+import { Event } from './Event';
 
 @customElement('java-events')
 export class JavaEvents extends LitElement {
