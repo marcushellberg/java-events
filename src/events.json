@@ -1253,4 +1253,15 @@
     "city": "Turin",
     "country": "Italy"
   }
+  {
+    "name": "Java User Group Oberpfalz",
+    "eventStarts": "",
+    "eventEnds": "",
+    "type": "Meetup",
+    "website": "http://jug-oberpfalz.de",
+    "cfpOpens": "",
+    "cfpEnds": "",
+    "city": "Weiden",
+    "country": "Germany"
+  }
 ]
