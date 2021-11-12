@@ -69,7 +69,7 @@ export class JavaEvents extends LitElement {
           <vaadin-text-field
             placeholder="Search events"
             clear-button-visible
-            @input=${this.updateSearch}></vaadin-text-field>
+            @value-changed=${this.updateSearch}></vaadin-text-field>
           <vaadin-checkbox
             label="Show CFP dates"
             .checked=${this.showCFP}
