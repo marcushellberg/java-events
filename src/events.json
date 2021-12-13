@@ -34,13 +34,13 @@
   },
   {
     "name": "JCON",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-10-17",
+    "eventEnds": "2022-10-21",
     "type": "Conference",
-    "website": "https://jcon.one/",
+    "website": "https://jcon.one",
     "cfpOpens": "",
     "cfpEnds": "",
-    "city": "Düsseldorf",
+    "city": "online",
     "country": "Germany"
   },
   {
