@@ -243,13 +243,13 @@
   },
   {
     "name": "JPoint",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-04-25",
+    "eventEnds": "2022-04-28",
     "type": "Conference",
     "website": "https://jpoint.ru/en/",
     "cfpOpens": "",
-    "cfpEnds": "",
-    "city": "Moscow",
+    "cfpEnds": "2022-02-22",
+    "city": "Online",
     "country": "Russia"
   },
   {
@@ -331,13 +331,13 @@
   },
   {
     "name": "Java Day Istanbul",
-    "eventStarts": "2022-05-24",
-    "eventEnds": "2022-05-25",
+    "eventStarts": "2022-05-19",
+    "eventEnds": "2022-05-22",
     "type": "Conference",
     "website": "https://www.javaday.istanbul/",
     "cfpOpens": "",
-    "cfpEnds": "",
-    "city": "İstanbul",
+    "cfpEnds": "2021-12-31",
+    "city": "Antalya",
     "country": "Turkey"
   },
   {
@@ -350,6 +350,17 @@
     "cfpEnds": "",
     "city": "London",
     "country": "UK"
+  },
+  {
+    "name": "QCon Plus",
+    "eventStarts": "2022-05-09",
+    "eventEnds": "2022-05-21",
+    "type": "Conference",
+    "website": "https://plus.qconferences.com/",
+    "cfpOpens": "",
+    "cfpEnds": "",
+    "city": "Online",
+    "country": ""
   },
   {
     "name": "QCon New York",
