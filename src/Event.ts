@@ -5,7 +5,6 @@ export type Event = {
   type: 'Conference' | 'Meetup';
   website: string;
   cfpOpens?: Date;
-  cfpEnds?: Date;
   city: string;
   country: string;
 };
