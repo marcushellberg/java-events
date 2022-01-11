@@ -211,8 +211,8 @@
   },
   {
     "name": "GeeCon Krakow",
-    "eventStarts": "2022-03-11",
-    "eventEnds": "2022-03-13",
+    "eventStarts": "2022-05-11",
+    "eventEnds": "2022-05-13",
     "type": "Conference",
     "website": "https://www.geecon.org/",
     "cfpEnds": "2022-03-05",
@@ -265,7 +265,7 @@
     "eventEnds": "2022-07-20",
     "type": "Conference",
     "website": "https://www.jbcnconf.com/2022/",
-    "cfpEnds": "",
+    "cfpEnds": "2022-04-30",
     "city": "Barcelona",
     "country": "Spain"
   },
