@@ -30,6 +30,16 @@
     "country": "Belgium"
   },
   {
+    "name": "Devoxx UK",
+    "eventStarts": "2022-05-11",
+    "eventEnds": "2022-05-13",
+    "type": "Conference",
+    "website": "https://www.devoxx.co.uk/",
+    "cfpEnds": "2022-01-14",
+    "city": "London",
+    "country": "UK"
+  },
+  {
     "name": "JCON",
     "eventStarts": "2022-10-17",
     "eventEnds": "2022-10-21",
