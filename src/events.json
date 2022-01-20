@@ -311,12 +311,12 @@
   },
   {
     "name": "Java Day Istanbul",
-    "eventStarts": "2022-05-19",
-    "eventEnds": "2022-05-22",
+    "eventStarts": "2022-05-27",
+    "eventEnds": "2022-05-28",
     "type": "Conference",
     "website": "https://www.javaday.istanbul/",
-    "cfpEnds": "2021-12-31",
-    "city": "Antalya",
+    "cfpEnds": "2022-03-31",
+    "city": "Istanbul",
     "country": "Turkey"
   },
   {
