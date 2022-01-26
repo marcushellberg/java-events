@@ -1168,5 +1168,15 @@
     "cfpEnds": "",
     "city": "Weiden",
     "country": "Germany"
+  },
+  {
+    "name": "Kansas City Developer Conference (KCDC)",
+    "eventStarts": "2022-08-08",
+    "eventEnds": "2022-08-10",
+    "type": "Conference",
+    "website": "https://www.kcdc.info/",
+    "cfpEnds": "2022-01-28",
+    "city": "Kansas City, MO",
+    "country": "USA"
   }
 ]
