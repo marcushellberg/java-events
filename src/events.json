@@ -40,12 +40,12 @@
     "country": "UK"
   },
   {
-    "name": "JCON",
+    "name": "JCON-ONLINE",
     "eventStarts": "2022-10-17",
     "eventEnds": "2022-10-21",
     "type": "Conference",
     "website": "https://jcon.one",
-    "cfpEnds": "",
+    "cfpEnds": "2022-03-31",
     "city": "online",
     "country": "Germany"
   },
@@ -1178,5 +1178,15 @@
     "cfpEnds": "2022-01-28",
     "city": "Kansas City, MO",
     "country": "USA"
+  },
+    {
+    "name": "JCON-PEOPLE",
+    "eventStarts": "2022-06-21",
+    "eventEnds": "2022-06-22",
+    "type": "Conference",
+    "website": "https://jcon.one",
+    "cfpEnds": "2022-03-31",
+    "city": "Munich",
+    "country": "Germany"
   }
 ]
