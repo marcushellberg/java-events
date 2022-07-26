@@ -221,13 +221,13 @@
   },
   {
     "name": "GeeCon Prague",
-    "eventStarts": "2022-10-11",
-    "eventEnds": "2022-10-14",
+    "eventStarts": "2022-10-24",
+    "eventEnds": "2022-10-25",
     "type": "Conference",
     "website": "https://www.geecon.org/",
-    "cfpEnds": "",
+    "cfpEnds": "2022-09-25",
     "city": "Prague",
-    "country": "Czechia"
+    "country": "Czech Republic"
   },
   {
     "name": "JPoint",
