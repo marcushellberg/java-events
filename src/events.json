@@ -1,5 +1,15 @@
 [
   {
+    "name": "JavaSummit IL",
+    "eventStarts": "2022-11-21",
+    "eventEnds": "2022-11-21",
+    "type": "Conference",
+    "website": "https://www.https://www.javasummitil.com",
+    "cfpEnds": "2022-07-31",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel"
+  },
+  {
     "name": "JFokus",
     "eventStarts": "2022-05-02",
     "eventEnds": "2022-05-04",
