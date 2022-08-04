@@ -61,28 +61,28 @@
   },
   {
     "name": "Jconf.dev",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-09-26",
+    "eventEnds": "2022-09-28",
     "type": "Conference",
     "website": "https://jconf.dev/",
-    "cfpEnds": "",
+    "cfpEnds": "2022-07-05",
     "city": "Chicago, IL",
     "country": "USA"
   },
   {
     "name": "Connect.tech",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-11-07",
+    "eventEnds": "2022-11-09",
     "type": "Conference",
     "website": "http://connect.tech",
-    "cfpEnds": "",
+    "cfpEnds": "2022-06-18",
     "city": "Atlanta, GA",
     "country": "USA"
   },
   {
-    "name": "Spring ONE",
-    "eventStarts": "",
-    "eventEnds": "",
+    "name": "SpringOne",
+    "eventStarts": "2022-12-06",
+    "eventEnds": "2022-12-06",
     "type": "Conference",
     "website": "https://springone.io/",
     "cfpEnds": "",
@@ -91,11 +91,11 @@
   },
   {
     "name": "J-FALL",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-11-03",
+    "eventEnds": "2022-11-03",
     "type": "Conference",
     "website": "https://jfall.nl/",
-    "cfpEnds": "",
+    "cfpEnds": "2022-09-01",
     "city": "Ede",
     "country": "Netherlands"
   },
@@ -110,11 +110,11 @@
     "country": "Spain"
   },
   {
-    "name": "Oracle Code One",
-    "eventStarts": "",
-    "eventEnds": "",
+    "name": "Oracle JavaOne",
+    "eventStarts": "2022-10-17",
+    "eventEnds": "2022-10-12",
     "type": "Conference",
-    "website": "https://www.oracle.com/code-one/",
+    "website": "https://www.oracle.com/cloudworld/javaone/",
     "cfpEnds": "",
     "city": "Las Vegas, NV",
     "country": "USA"
@@ -128,16 +128,6 @@
     "cfpEnds": "2022-01-09",
     "city": "Paris",
     "country": "France"
-  },
-  {
-    "name": "Devoxx Ukraine",
-    "eventStarts": "",
-    "eventEnds": "",
-    "type": "Conference",
-    "website": "https://devoxx.com.ua/",
-    "cfpEnds": "",
-    "city": "Kyiv",
-    "country": "Ukraine"
   },
   {
     "name": "JAX London",
@@ -181,8 +171,8 @@
   },
   {
     "name": "Javazone",
-    "eventStarts": "2021-12-08",
-    "eventEnds": "2021-12-09",
+    "eventStarts": "2022-09-07",
+    "eventEnds": "2022-09-08",
     "type": "Conference",
     "website": "https://2021.javazone.no/#/",
     "cfpEnds": "",
@@ -191,8 +181,8 @@
   },
   {
     "name": "W-JAX Hybrid",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-11-07",
+    "eventEnds": "2022-11-11",
     "type": "Conference",
     "website": "https://jax.de/munich/",
     "cfpEnds": "",
@@ -201,8 +191,8 @@
   },
   {
     "name": "Voxxed Days Ticino",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2023-01-20",
+    "eventEnds": "2023-01-20",
     "type": "Conference",
     "website": "https://voxxeddays.com/ticino/",
     "cfpEnds": "",
@@ -251,8 +241,8 @@
   },
   {
     "name": "JNation",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-06-07",
+    "eventEnds": "2022-06-07",
     "type": "Conference",
     "website": "https://jnation.pt/",
     "cfpEnds": "",
@@ -281,8 +271,8 @@
   },
   {
     "name": "Øredev",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-11-08",
+    "eventEnds": "2022-11-10",
     "type": "Conference",
     "website": "https://oredev.org/",
     "cfpEnds": "",
@@ -291,8 +281,8 @@
   },
   {
     "name": "JVM CON",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-11-29",
+    "eventEnds": "2022-12-01",
     "type": "Conference",
     "website": "https://www.jvm-con.de/en/",
     "cfpEnds": "",
@@ -304,7 +294,7 @@
     "eventStarts": "2022-10-06",
     "eventEnds": "2022-10-06",
     "type": "Conference",
-    "website": "https://javaforumnord.d",
+    "website": "https://javaforumnord.de",
     "cfpEnds": "",
     "city": "Hanover",
     "country": "Germany"
@@ -331,8 +321,8 @@
   },
   {
     "name": "QCon Plus",
-    "eventStarts": "2022-05-09",
-    "eventEnds": "2022-05-21",
+    "eventStarts": "2022-11-29",
+    "eventEnds": "2022-12-09",
     "type": "Conference",
     "website": "https://plus.qconferences.com/",
     "cfpEnds": "",
@@ -351,8 +341,8 @@
   },
   {
     "name": "QCon San Francisco",
-    "eventStarts": "",
-    "eventEnds": "",
+    "eventStarts": "2022-10-24",
+    "eventEnds": "2022-10-28",
     "type": "Conference",
     "website": "https://qconsf.com/",
     "cfpEnds": "",
@@ -370,19 +360,9 @@
     "country": "Germany"
   },
   {
-    "name": "GeekOut",
-    "eventStarts": "",
-    "eventEnds": "",
-    "type": "Conference",
-    "website": "https://2019.geekout.ee/",
-    "cfpEnds": "",
-    "city": "Tallinn",
-    "country": "Estonia"
-  },
-  {
     "name": "GOTO Amsterdam",
-    "eventStarts": "2021-12-06",
-    "eventEnds": "2021-12-09",
+    "eventStarts": "2022-06-12",
+    "eventEnds": "2022-06-16",
     "type": "Conference",
     "website": "https://gotoams.nl/",
     "cfpEnds": "",
@@ -401,8 +381,8 @@
   },
   {
     "name": "OOP",
-    "eventStarts": "2022-01-31",
-    "eventEnds": "2022-02-02",
+    "eventStarts": "2023-02-06",
+    "eventEnds": "2023-02-10",
     "type": "Conference",
     "website": "https://www.oop-konferenz.de/oop2022.html",
     "cfpEnds": "",
@@ -1179,7 +1159,7 @@
     "city": "Kansas City, MO",
     "country": "USA"
   },
-    {
+  {
     "name": "JCON-PEOPLE",
     "eventStarts": "2022-06-21",
     "eventEnds": "2022-06-22",
