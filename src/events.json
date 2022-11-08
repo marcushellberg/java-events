@@ -1,5 +1,15 @@
 [
   {
+    "name": "Voxxed Days Zürich",
+    "eventStarts": "2023-03-16",
+    "eventEnds": "2023-03-16",
+    "type": "Conference",
+    "website": "https://voxxeddays.com/zurich/",
+    "cfpEnds": "2022-11-16",
+    "city": "Zürich",
+    "country": "Switzerland"
+  },
+  {
     "name": "OOP",
     "eventStarts": "2023-02-06",
     "eventEnds": "2023-02-10",
