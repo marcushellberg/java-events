@@ -1,190 +1,20 @@
 [
   {
-    "name": "JFokus",
-    "eventStarts": "2022-05-02",
-    "eventEnds": "2022-05-04",
-    "type": "Conference",
-    "website": "https://www.jfokus.se/",
-    "cfpEnds": "",
-    "city": "Stockholm",
-    "country": "Sweden"
-  },
-  {
-    "name": "DevNexus",
-    "eventStarts": "2022-04-11",
-    "eventEnds": "2022-04-13",
-    "type": "Conference",
-    "website": "https://devnexus.com/",
-    "cfpEnds": "2021-11-15",
-    "city": "Atlanta, GA",
-    "country": "USA"
-  },
-  {
-    "name": "Devoxx Belgium",
-    "eventStarts": "2022-11-07",
-    "eventEnds": "2022-11-11",
-    "type": "Conference",
-    "website": "https://devoxx.be/",
-    "cfpEnds": "",
-    "city": "Antwerp",
-    "country": "Belgium"
-  },
-  {
-    "name": "Devoxx UK",
-    "eventStarts": "2022-05-11",
-    "eventEnds": "2022-05-13",
-    "type": "Conference",
-    "website": "https://www.devoxx.co.uk/",
-    "cfpEnds": "2022-01-28",
-    "city": "London",
-    "country": "UK"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "eventStarts": "2022-09-20",
-    "eventEnds": "2022-09-23",
-    "type": "Conference",
-    "website": "https://jcon.one",
-    "cfpEnds": "2022-03-31",
-    "city": "online",
-    "country": "Germany"
-  },
-  {
-    "name": "Voxxed Days Zurich",
-    "eventStarts": "2022-03-17",
-    "eventEnds": "2022-03-17",
+    "name": "Voxxed Days Zürich",
+    "eventStarts": "2023-03-16",
+    "eventEnds": "2023-03-16",
     "type": "Conference",
     "website": "https://voxxeddays.com/zurich/",
-    "cfpEnds": "2021-12-06",
+    "cfpEnds": "2022-11-16",
     "city": "Zürich",
     "country": "Switzerland"
   },
   {
-    "name": "Jconf.dev",
-    "eventStarts": "2022-09-26",
-    "eventEnds": "2022-09-28",
+    "name": "OOP",
+    "eventStarts": "2023-02-06",
+    "eventEnds": "2023-02-10",
     "type": "Conference",
-    "website": "https://jconf.dev/",
-    "cfpEnds": "2022-07-05",
-    "city": "Chicago, IL",
-    "country": "USA"
-  },
-  {
-    "name": "Connect.tech",
-    "eventStarts": "2022-11-07",
-    "eventEnds": "2022-11-09",
-    "type": "Conference",
-    "website": "http://connect.tech",
-    "cfpEnds": "2022-06-18",
-    "city": "Atlanta, GA",
-    "country": "USA"
-  },
-  {
-    "name": "SpringOne",
-    "eventStarts": "2022-12-06",
-    "eventEnds": "2022-12-06",
-    "type": "Conference",
-    "website": "https://springone.io/",
-    "cfpEnds": "",
-    "city": "Seattle, WA",
-    "country": "USA"
-  },
-  {
-    "name": "J-FALL",
-    "eventStarts": "2022-11-03",
-    "eventEnds": "2022-11-03",
-    "type": "Conference",
-    "website": "https://jfall.nl/",
-    "cfpEnds": "2022-09-01",
-    "city": "Ede",
-    "country": "Netherlands"
-  },
-  {
-    "name": "Spring IO",
-    "eventStarts": "2022-05-26",
-    "eventEnds": "2022-05-27",
-    "type": "Conference",
-    "website": "https://2022.springio.net/",
-    "cfpEnds": "2022-03-01",
-    "city": "Barcelona",
-    "country": "Spain"
-  },
-  {
-    "name": "Oracle JavaOne",
-    "eventStarts": "2022-10-17",
-    "eventEnds": "2022-10-12",
-    "type": "Conference",
-    "website": "https://www.oracle.com/cloudworld/javaone/",
-    "cfpEnds": "",
-    "city": "Las Vegas, NV",
-    "country": "USA"
-  },
-  {
-    "name": "Devoxx France",
-    "eventStarts": "2022-04-20",
-    "eventEnds": "2022-04-22",
-    "type": "Conference",
-    "website": "https://www.devoxx.fr/",
-    "cfpEnds": "2022-01-09",
-    "city": "Paris",
-    "country": "France"
-  },
-  {
-    "name": "JAX London",
-    "eventStarts": "",
-    "eventEnds": "",
-    "type": "Conference",
-    "website": "https://jaxlondon.com/",
-    "cfpEnds": "",
-    "city": "London",
-    "country": "UK"
-  },
-  {
-    "name": "JAX Hybrid",
-    "eventStarts": "2022-05-02",
-    "eventEnds": "2022-05-06",
-    "type": "Conference",
-    "website": "https://jax.de/mainz-en",
-    "cfpEnds": "",
-    "city": "Mainz",
-    "country": "Germany"
-  },
-  {
-    "name": "JavaDays",
-    "eventStarts": "",
-    "eventEnds": "",
-    "type": "Conference",
-    "website": "https://javadays.sk/sk/",
-    "cfpEnds": "",
-    "city": "",
-    "country": "Slovakia"
-  },
-  {
-    "name": "JavaLand",
-    "eventStarts": "2022-03-15",
-    "eventEnds": "2022-03-17",
-    "type": "Conference",
-    "website": "https://www.javaland.eu/en/home/",
-    "cfpEnds": "",
-    "city": "Brühl",
-    "country": "Germany"
-  },
-  {
-    "name": "Javazone",
-    "eventStarts": "2022-09-07",
-    "eventEnds": "2022-09-08",
-    "type": "Conference",
-    "website": "https://2021.javazone.no/#/",
-    "cfpEnds": "",
-    "city": "Oslo",
-    "country": "Norway"
-  },
-  {
-    "name": "W-JAX Hybrid",
-    "eventStarts": "2022-11-07",
-    "eventEnds": "2022-11-11",
-    "type": "Conference",
-    "website": "https://jax.de/munich/",
+    "website": "https://www.oop-konferenz.de/oop2022.html",
     "cfpEnds": "",
     "city": "Munich",
     "country": "Germany"
@@ -200,124 +30,14 @@
     "country": "Switzerland"
   },
   {
-    "name": "GeeCon Krakow",
-    "eventStarts": "2022-05-11",
-    "eventEnds": "2022-05-13",
+    "name": "SpringOne",
+    "eventStarts": "2022-12-06",
+    "eventEnds": "2022-12-06",
     "type": "Conference",
-    "website": "https://www.geecon.org/",
-    "cfpEnds": "2022-03-05",
-    "city": "Kraków",
-    "country": "Poland"
-  },
-  {
-    "name": "GeeCon Prague",
-    "eventStarts": "2022-10-24",
-    "eventEnds": "2022-10-25",
-    "type": "Conference",
-    "website": "https://www.geecon.org/",
-    "cfpEnds": "2022-09-25",
-    "city": "Prague",
-    "country": "Czech Republic"
-  },
-  {
-    "name": "JPoint",
-    "eventStarts": "2022-04-25",
-    "eventEnds": "2022-04-28",
-    "type": "Conference",
-    "website": "https://jpoint.ru/en/",
-    "cfpEnds": "2022-02-22",
-    "city": "Online",
-    "country": "Russia"
-  },
-  {
-    "name": "Joker",
-    "eventStarts": "",
-    "eventEnds": "",
-    "type": "Conference",
-    "website": "https://jokerconf.com/en/",
+    "website": "https://springone.io/",
     "cfpEnds": "",
-    "city": "St Petersburg",
-    "country": "Russia"
-  },
-  {
-    "name": "JNation",
-    "eventStarts": "2022-06-07",
-    "eventEnds": "2022-06-07",
-    "type": "Conference",
-    "website": "https://jnation.pt/",
-    "cfpEnds": "",
-    "city": "Coimbra",
-    "country": "Portugal"
-  },
-  {
-    "name": "JBCN",
-    "eventStarts": "2022-07-18",
-    "eventEnds": "2022-07-20",
-    "type": "Conference",
-    "website": "https://www.jbcnconf.com/2022/",
-    "cfpEnds": "2022-04-30",
-    "city": "Barcelona",
-    "country": "Spain"
-  },
-  {
-    "name": "J-SPRING",
-    "eventStarts": "2022-06-02",
-    "eventEnds": "2022-06-03",
-    "type": "Conference",
-    "website": "https://jspring.nl/",
-    "cfpEnds": "",
-    "city": "Utrecht",
-    "country": "Netherlands"
-  },
-  {
-    "name": "Øredev",
-    "eventStarts": "2022-11-08",
-    "eventEnds": "2022-11-10",
-    "type": "Conference",
-    "website": "https://oredev.org/",
-    "cfpEnds": "",
-    "city": "Malmö",
-    "country": "Sweden"
-  },
-  {
-    "name": "JVM CON",
-    "eventStarts": "2022-11-29",
-    "eventEnds": "2022-12-01",
-    "type": "Conference",
-    "website": "https://www.jvm-con.de/en/",
-    "cfpEnds": "",
-    "city": "Cologne",
-    "country": "Germany"
-  },
-  {
-    "name": "Java Foum Nord",
-    "eventStarts": "2022-10-06",
-    "eventEnds": "2022-10-06",
-    "type": "Conference",
-    "website": "https://javaforumnord.de",
-    "cfpEnds": "",
-    "city": "Hanover",
-    "country": "Germany"
-  },
-  {
-    "name": "Java Day Istanbul",
-    "eventStarts": "2022-05-27",
-    "eventEnds": "2022-05-28",
-    "type": "Conference",
-    "website": "https://www.javaday.istanbul/",
-    "cfpEnds": "2022-03-31",
-    "city": "Istanbul",
-    "country": "Turkey"
-  },
-  {
-    "name": "QCon London",
-    "eventStarts": "2022-04-04",
-    "eventEnds": "2022-04-06",
-    "type": "Conference",
-    "website": "https://qconlondon.com/",
-    "cfpEnds": "",
-    "city": "London",
-    "country": "UK"
+    "city": "Seattle, WA",
+    "country": "USA"
   },
   {
     "name": "QCon Plus",
@@ -330,14 +50,74 @@
     "country": ""
   },
   {
-    "name": "QCon New York",
-    "eventStarts": "",
-    "eventEnds": "",
+    "name": "JVM CON",
+    "eventStarts": "2022-11-29",
+    "eventEnds": "2022-12-01",
     "type": "Conference",
-    "website": "https://qconnewyork.com/",
+    "website": "https://www.jvm-con.de/en/",
     "cfpEnds": "",
-    "city": "New York, NY",
+    "city": "Cologne",
+    "country": "Germany"
+  },
+  {
+    "name": "JavaSummit IL",
+    "eventStarts": "2022-11-21",
+    "eventEnds": "2022-11-21",
+    "type": "Conference",
+    "website": "https://www.javasummitil.com",
+    "cfpEnds": "2022-07-31",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel"
+  },
+  {
+    "name": "Øredev",
+    "eventStarts": "2022-11-08",
+    "eventEnds": "2022-11-10",
+    "type": "Conference",
+    "website": "https://oredev.org/",
+    "cfpEnds": "",
+    "city": "Malmö",
+    "country": "Sweden"
+  },
+  {
+    "name": "W-JAX Hybrid",
+    "eventStarts": "2022-11-07",
+    "eventEnds": "2022-11-11",
+    "type": "Conference",
+    "website": "https://jax.de/munich/",
+    "cfpEnds": "",
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "name": "Connect.tech",
+    "eventStarts": "2022-11-07",
+    "eventEnds": "2022-11-09",
+    "type": "Conference",
+    "website": "http://connect.tech",
+    "cfpEnds": "2022-06-18",
+    "city": "Atlanta, GA",
     "country": "USA"
+  },
+  {
+    "name": "J-FALL",
+    "eventStarts": "2022-11-03",
+    "eventEnds": "2022-11-03",
+    "type": "Conference",
+    "website": "https://jfall.nl/",
+    "cfpEnds": "2022-09-01",
+    "city": "Ede",
+    "country": "Netherlands"
+  },
+  {
+    "name": "GeeCon Prague",
+    "eventStarts": "2022-10-24",
+    "eventEnds": "2022-10-25",
+    "type": "Conference",
+    "website": "https://www.geecon.org/",
+    "cfpEnds": "2022-09-25",
+    "city": "Prague",
+    "country": "Czech Republic"
   },
   {
     "name": "QCon San Francisco",
@@ -347,6 +127,276 @@
     "website": "https://qconsf.com/",
     "cfpEnds": "",
     "city": "San Francisco, CA",
+    "country": "USA"
+  },
+  {
+    "name": "BaselOne",
+    "eventStarts": "2022-10-19",
+    "eventEnds": "2022-10-20",
+    "type": "Conference",
+    "website": "https://baselone.ch/one/",
+    "cfpEnds": "",
+    "city": "Basel",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Oracle JavaOne",
+    "eventStarts": "2022-10-17",
+    "eventEnds": "2022-10-12",
+    "type": "Conference",
+    "website": "https://www.oracle.com/cloudworld/javaone/",
+    "cfpEnds": "",
+    "city": "Las Vegas, NV",
+    "country": "USA"
+  },
+  {
+    "name": "Java Foum Nord",
+    "eventStarts": "2022-10-06",
+    "eventEnds": "2022-10-06",
+    "type": "Conference",
+    "website": "https://javaforumnord.de",
+    "cfpEnds": "",
+    "city": "Hanover",
+    "country": "Germany"
+  },
+  {
+    "name": "IntelliJ IDEA Conf",
+    "eventStarts": "2022-09-29",
+    "eventEnds": "2022-09-30",
+    "type": "Conference",
+    "website": "https://pages.jetbrains.com/intellij-idea-conf-2022/",
+    "cfpEnds": "",
+    "city": "online",
+    "country": "virtual"
+  },
+  {
+    "name": "Jconf.dev",
+    "eventStarts": "2022-09-26",
+    "eventEnds": "2022-09-28",
+    "type": "Conference",
+    "website": "https://jconf.dev/",
+    "cfpEnds": "2022-07-05",
+    "city": "Chicago, IL",
+    "country": "USA"
+  },
+  {
+    "name": "JCON-ONLINE",
+    "eventStarts": "2022-09-20",
+    "eventEnds": "2022-09-23",
+    "type": "Conference",
+    "website": "https://jcon.one",
+    "cfpEnds": "2022-03-31",
+    "city": "online",
+    "country": "Germany"
+  },
+  {
+    "name": "Javazone",
+    "eventStarts": "2022-09-07",
+    "eventEnds": "2022-09-08",
+    "type": "Conference",
+    "website": "https://2021.javazone.no/#/",
+    "cfpEnds": "",
+    "city": "Oslo",
+    "country": "Norway"
+  },
+  {
+    "name": "JBCN",
+    "eventStarts": "2022-07-18",
+    "eventEnds": "2022-07-20",
+    "type": "Conference",
+    "website": "https://www.jbcnconf.com/2022/",
+    "cfpEnds": "2022-04-30",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "GOTO Amsterdam",
+    "eventStarts": "2022-06-12",
+    "eventEnds": "2022-06-16",
+    "type": "Conference",
+    "website": "https://gotoams.nl/",
+    "cfpEnds": "",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "name": "JNation",
+    "eventStarts": "2022-06-07",
+    "eventEnds": "2022-06-07",
+    "type": "Conference",
+    "website": "https://jnation.pt/",
+    "cfpEnds": "",
+    "city": "Coimbra",
+    "country": "Portugal"
+  },
+  {
+    "name": "J-SPRING",
+    "eventStarts": "2022-06-02",
+    "eventEnds": "2022-06-03",
+    "type": "Conference",
+    "website": "https://jspring.nl/",
+    "cfpEnds": "",
+    "city": "Utrecht",
+    "country": "Netherlands"
+  },
+  {
+    "name": "Java Day Istanbul",
+    "eventStarts": "2022-05-27",
+    "eventEnds": "2022-05-28",
+    "type": "Conference",
+    "website": "https://www.javaday.istanbul/",
+    "cfpEnds": "2022-03-31",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "name": "Spring IO",
+    "eventStarts": "2022-05-26",
+    "eventEnds": "2022-05-27",
+    "type": "Conference",
+    "website": "https://2022.springio.net/",
+    "cfpEnds": "2022-03-01",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "Devoxx UK",
+    "eventStarts": "2022-05-11",
+    "eventEnds": "2022-05-13",
+    "type": "Conference",
+    "website": "https://www.devoxx.co.uk/",
+    "cfpEnds": "2022-01-28",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "name": "GeeCon Krakow",
+    "eventStarts": "2022-05-11",
+    "eventEnds": "2022-05-13",
+    "type": "Conference",
+    "website": "https://www.geecon.org/",
+    "cfpEnds": "2022-03-05",
+    "city": "Kraków",
+    "country": "Poland"
+  },
+  {
+    "name": "JAX Hybrid",
+    "eventStarts": "2022-05-02",
+    "eventEnds": "2022-05-06",
+    "type": "Conference",
+    "website": "https://jax.de/mainz-en",
+    "cfpEnds": "",
+    "city": "Mainz",
+    "country": "Germany"
+  },
+  {
+    "name": "JFokus",
+    "eventStarts": "2022-05-02",
+    "eventEnds": "2022-05-04",
+    "type": "Conference",
+    "website": "https://www.jfokus.se/",
+    "cfpEnds": "",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "name": "JPoint",
+    "eventStarts": "2022-04-25",
+    "eventEnds": "2022-04-28",
+    "type": "Conference",
+    "website": "https://jpoint.ru/en/",
+    "cfpEnds": "2022-02-22",
+    "city": "Online",
+    "country": "Russia"
+  },
+  {
+    "name": "Devoxx France",
+    "eventStarts": "2022-04-20",
+    "eventEnds": "2022-04-22",
+    "type": "Conference",
+    "website": "https://www.devoxx.fr/",
+    "cfpEnds": "2022-01-09",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "name": "DevNexus",
+    "eventStarts": "2022-04-11",
+    "eventEnds": "2022-04-13",
+    "type": "Conference",
+    "website": "https://devnexus.com/",
+    "cfpEnds": "2021-11-15",
+    "city": "Atlanta, GA",
+    "country": "USA"
+  },
+  {
+    "name": "QCon London",
+    "eventStarts": "2022-04-04",
+    "eventEnds": "2022-04-06",
+    "type": "Conference",
+    "website": "https://qconlondon.com/",
+    "cfpEnds": "",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "name": "Voxxed Days Zurich",
+    "eventStarts": "2022-03-17",
+    "eventEnds": "2022-03-17",
+    "type": "Conference",
+    "website": "https://voxxeddays.com/zurich/",
+    "cfpEnds": "2021-12-06",
+    "city": "Zürich",
+    "country": "Switzerland"
+  },
+  {
+    "name": "JavaLand",
+    "eventStarts": "2022-03-15",
+    "eventEnds": "2022-03-17",
+    "type": "Conference",
+    "website": "https://www.javaland.eu/en/home/",
+    "cfpEnds": "",
+    "city": "Brühl",
+    "country": "Germany"
+  },
+  {
+    "name": "JAX London",
+    "eventStarts": "",
+    "eventEnds": "",
+    "type": "Conference",
+    "website": "https://jaxlondon.com/",
+    "cfpEnds": "",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "name": "JavaDays",
+    "eventStarts": "",
+    "eventEnds": "",
+    "type": "Conference",
+    "website": "https://javadays.sk/sk/",
+    "cfpEnds": "",
+    "city": "",
+    "country": "Slovakia"
+  },
+  {
+    "name": "Joker",
+    "eventStarts": "",
+    "eventEnds": "",
+    "type": "Conference",
+    "website": "https://jokerconf.com/en/",
+    "cfpEnds": "",
+    "city": "St Petersburg",
+    "country": "Russia"
+  },
+  {
+    "name": "QCon New York",
+    "eventStarts": "",
+    "eventEnds": "",
+    "type": "Conference",
+    "website": "https://qconnewyork.com/",
+    "cfpEnds": "",
+    "city": "New York, NY",
     "country": "USA"
   },
   {
@@ -360,16 +410,6 @@
     "country": "Germany"
   },
   {
-    "name": "GOTO Amsterdam",
-    "eventStarts": "2022-06-12",
-    "eventEnds": "2022-06-16",
-    "type": "Conference",
-    "website": "https://gotoams.nl/",
-    "cfpEnds": "",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "Dev.next",
     "eventStarts": "",
     "eventEnds": "",
@@ -378,26 +418,6 @@
     "cfpEnds": "",
     "city": "Denver, CO",
     "country": "USA"
-  },
-  {
-    "name": "OOP",
-    "eventStarts": "2023-02-06",
-    "eventEnds": "2023-02-10",
-    "type": "Conference",
-    "website": "https://www.oop-konferenz.de/oop2022.html",
-    "cfpEnds": "",
-    "city": "Munich",
-    "country": "Germany"
-  },
-  {
-    "name": "BaselOne",
-    "eventStarts": "2022-10-19",
-    "eventEnds": "2022-10-20",
-    "type": "Conference",
-    "website": "https://baselone.ch/one/",
-    "cfpEnds": "",
-    "city": "Basel",
-    "country": "Switzerland"
   },
   {
     "name": "NYC JUG",
